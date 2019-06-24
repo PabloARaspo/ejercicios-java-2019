@@ -16,7 +16,7 @@ public class PrestamoDatos {
                 return SISTEMA_FRANCES;
             }
             
-            switch(value) {
+            switch (value) {
                 case 2:
                     return SISTEMA_ALEMAN;
                 default:
